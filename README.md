@@ -42,6 +42,6 @@ To learn about closure, go to [learnClosure.js](src/learnClosure.js).
 
 To learn about importing external library, go to [learnLibrary.js](src/learnLibrary.js).
 
-To learn about importing files, go to [getSum.js](src/getSum.js), [getSum.js](src/getSum.js) and [learnFiles.js](src/learnFile.js).
+To learn about importing files, go to [getSum.js](src/getSum.js), [getSumPlusOne.js](src/getSumPlusOne.js) and [learnFiles.js](src/learnFile.js).
 
-If you cursious about `var`, go to [getSum.js](src/learnClosureVar.js) and [src/learnClosureVar.js].
+If you cursious about `var`, go to [learnClosureWithVar.js](src/learnClosureWithVar.js).
