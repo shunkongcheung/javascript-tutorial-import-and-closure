@@ -24,7 +24,7 @@ const incrementCount = (incrementBy) => {
 		counter ++ 
 	}
 }
-
+// console.log(`I cant access ${incrementBy} here :(`) // incrementBy does not belongs to this scope
 
 console.log(`Counter(1): ${counter}`) // counter is accessible here, as it is in the same scope
 incrementCount(3)
